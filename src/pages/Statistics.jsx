@@ -11,7 +11,6 @@ import {
     Legend,
 } from 'recharts';
 import { loadData } from '../utils/storage';
-import moment from 'moment';
 
 function Statistics() {
     const [data, setData] = useState([]);
