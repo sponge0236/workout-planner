@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Push-Up",
+    "level": "Beginner",
+    "description": "A basic push-up exercise.",
+    "videoUrl": "https://www.youtube.com/watch?v=IODxDxX7oi4"
+  },
+  {
+    "id": 2,
+    "name": "Squat",
+    "level": "Beginner",
+    "description": "A basic squat exercise.",
+    "videoUrl": "https://www.youtube.com/watch?v=aclHkVaku9U"
+  }
+]
