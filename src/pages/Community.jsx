@@ -17,7 +17,7 @@ function Community() {
 
     return (
         <div style={{ padding: 16 }}>
-            <h2>Community</h2>
+            <h2>Memo</h2>
             <TextField
                 value={content}
                 onChange={(e) => setContent(e.target.value)}
