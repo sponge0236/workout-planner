@@ -19,7 +19,7 @@ function Navbar({ toggleTheme }) {
                 <StyledLink to="/schedule">Schedule</StyledLink>
                 <StyledLink to="/statistics">Statistics</StyledLink>
                 <StyledLink to="/goals">Goals</StyledLink>
-                <StyledLink to="/community">Community</StyledLink>
+                <StyledLink to="/community">Memo</StyledLink>
                 <StyledLink to="/nutrition">Nutrition</StyledLink>
                 <StyledLink to="/tutorials">Tutorials</StyledLink>
                 <IconButton color="inherit" onClick={toggleTheme}>
